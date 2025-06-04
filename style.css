@@ -1,0 +1,54 @@
+
+    body {
+      background-color: #99CCFF !important;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .profile-pic {
+      max-width: 180px;
+      border-radius: 50%;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    .section-title {
+      color: #FFFFFF;
+      border-bottom: 2px solid #FFFFFF;
+      padding-bottom: 4px;
+      margin-bottom: 1rem;
+      font-weight: 600;
+    }
+
+    .contact-info a {
+      text-decoration: none;
+      color: #5699DC !important;
+    }
+
+    .contact-info i,
+    .bi-check-circle-fill {
+      color: #5699DC!important;
+    }
+
+    a {
+      color: #5699DC;
+    }
+
+    a:hover {
+      color: #2B5FA3;
+    }
+
+    .badge-language {
+      font-size: 0.9rem;
+      margin-left: 6px;
+    }
+
+    .progress-bar {
+      background-color: #71A0D0 !important;
+    }
+  .europass-logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 200px; /* Aumenta la dimensione qui */
+  z-index: 1000;
+}
+ 
